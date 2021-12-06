@@ -15,7 +15,7 @@ public class Calculator {
 
         Calculator myCalculator = new Calculator();
 
-        int result = myCalculator.addAToB(16, 16);
+        int result = myCalculator.addAToB(17, 16);
         System.out.println(result);
     }
 }
